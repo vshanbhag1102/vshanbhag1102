@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Vinayak Shanbhag – a Software Engineer passionate about data analytics and technology.<br><br>🔭 Currently working at NVIDIA and exploring AI tools.<br><br>🌱 Learning GenAL/ML/DL/LLMs<br><br>💬 Ask me about AI, Storage, and interactive web pages<br><br>📫 Reach me at [https://www.linkedin.com/in/siddhivinayak-shanbhag/](https://www.linkedin.com/in/vinayakshanbhag211/).<br>​
+👋 Hi, I'm Vinayak Shanbhag – a Software Engineer passionate about data analytics and technology.<br><br>🔭 Currently working at NVIDIA and exploring AI tools.<br><br>🌱 Learning GenAL/ML/DL/LLMs<br><br>💬 Ask me about AI, Storage, and interactive web pages<br><br>📫 Reach me at [https://www.linkedin.com/in/vinayakshanbhag211/](https://www.linkedin.com/in/vinayakshanbhag211/).<br>​
 
 
 ## 🌐 Socials:
